@@ -1,0 +1,5 @@
+morphology/dicts/dict.opencorpora.conllu.zip filter=lfs diff=lfs merge=lfs -text
+morphology/corpuses/universal_dependecies/gikrya.conll.zip filter=lfs diff=lfs merge=lfs -text
+morphology/corpuses/universal_dependecies/GramEval2020-SynTagRus.conllu.zip filter=lfs diff=lfs merge=lfs -text
+morphology/corpuses/universal_dependecies/opencorpora.conll.zip filter=lfs diff=lfs merge=lfs -text
+morphology/corpuses/universal_dependecies/ruscorpora.conll.zip filter=lfs diff=lfs merge=lfs -text
